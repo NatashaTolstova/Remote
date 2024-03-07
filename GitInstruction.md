@@ -84,3 +84,4 @@ git checkout <номер версии>
 ```
 git checkout master
 ```
+## 8. Игнорирование файлов
