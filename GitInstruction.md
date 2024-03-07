@@ -92,3 +92,7 @@ git checkout master
 ```bash
 git branch <имя новой ветки>
 ```
+Список веток в репозитории можно посмотреть с помощью команды 
+```bash
+git branch
+```
